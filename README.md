@@ -9,7 +9,7 @@ Screenshots:
 
 1. Student View Screenshots:
 
-![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/login.jpg)
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/login.JPG)
 
 ![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image1.jpg)
 
