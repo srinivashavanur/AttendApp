@@ -11,3 +11,10 @@ Screenshots:
 
 ![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/photo-1.jpg)
 
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image1.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image2.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image3.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image4.jpg)
