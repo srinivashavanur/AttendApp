@@ -18,3 +18,20 @@ Screenshots:
 ![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image3.jpg)
 
 ![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image4.jpg)
+
+
+2. Teacher View Screenshots:
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image5.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image6.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image7.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image8.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image9.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image10.jpg)
+
+![myimage-alt-tag](http://www.cs.odu.edu/~shavanur/AttendApp/images/portfolio/image11.jpg)
