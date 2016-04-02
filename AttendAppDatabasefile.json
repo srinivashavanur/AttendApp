@@ -1,0 +1,4442 @@
+{
+  "CRNschedule" : {
+    "12467" : {
+      "beaconID" : "cd8c4c3d-6a56-4e5d-83f6-1eb724bd2418",
+      "crn" : "12467",
+      "schedules" : [ {
+        "abbreviation" : "ECE 381",
+        "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+        "crn" : "12467",
+        "fromTime" : "1330",
+        "toTime" : "1445",
+        "weekDay" : "Tuesday"
+      }, {
+        "abbreviation" : "ECE 381",
+        "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+        "crn" : "12467",
+        "fromTime" : "1330",
+        "toTime" : "1445",
+        "weekDay" : "Thursday"
+      } ]
+    },
+    "13187" : {
+      "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+      "crn" : "13187",
+      "schedules" : [ {
+        "abbreviation" : "CS350",
+        "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+        "crn" : "13187",
+        "fromTime" : "930",
+        "toTime" : "1200",
+        "weekDay" : "Saturday"
+      } ]
+    },
+    "13195" : {
+      "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+      "crn" : "13195",
+      "schedules" : [ {
+        "abbreviation" : "ECE 441",
+        "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+        "crn" : "13195",
+        "fromTime" : "930",
+        "toTime" : "1045",
+        "weekDay" : "Tuesday"
+      }, {
+        "abbreviation" : "ECE 441",
+        "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+        "crn" : "13195",
+        "fromTime" : "930",
+        "toTime" : "1045",
+        "weekDay" : "Thursday"
+      } ]
+    },
+    "18905" : {
+      "beaconID" : "151d4b2d-672d-499d-bcf5-83f59a7471b6",
+      "crn" : "18905",
+      "schedules" : [ {
+        "abbreviation" : "CS441",
+        "beaconID" : "151d4b2d-672d-499d-bcf5-83f59a7471b6",
+        "crn" : "18905",
+        "fromTime" : "1910",
+        "toTime" : "2150",
+        "weekDay" : "Monday"
+      } ]
+    },
+    "19101" : {
+      "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+      "crn" : "19101",
+      "schedules" : [ {
+        "abbreviation" : "COMM101",
+        "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+        "crn" : "19101",
+        "fromTime" : "1100",
+        "toTime" : "1215",
+        "weekDay" : "Tuesday"
+      } ]
+    }
+  },
+  "attendance" : {
+    "12467" : {
+      "dpere013@odu-edu" : {
+        "2015-11-30" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        }
+      },
+      "yzhen004@odu-edu" : {
+        "2015-09-29" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-01" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-06" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-13" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-20" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-27" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-29" : {
+          "isAttended" : true,
+          "isMissed" : false
+        },
+        "2015-12-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-02" : {
+          "isAttended" : true,
+          "isMissed" : false
+        },
+        "2015-12-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      }
+    },
+    "13187" : {
+      "abola002@odu-edu" : {
+        "2015-09-26" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-03" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-10" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-17" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-24" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-31" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-07" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-14" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-11-21" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-28" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-02" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-09" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      },
+      "bboeg001@odu-edu" : {
+        "2015-09-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-14" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-21" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-28" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-02" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-09" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      },
+      "jbrin018@odu-edu" : {
+        "2015-09-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-14" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-21" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-28" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-02" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-09" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      },
+      "rbonn007@odu-edu" : {
+        "2015-09-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-14" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-21" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-28" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-02" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-09" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      },
+      "yzhen004@odu-edu" : {
+        "2015-09-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-03" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-10" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-10-17" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-07" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-11-14" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-21" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-11-28" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-05" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-12-12" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-12-19" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-12-26" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2016-01-02" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2016-01-09" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        }
+      }
+    },
+    "13195" : {
+      "dpere013@odu-edu" : {
+        "2015-11-30" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        }
+      },
+      "jfloy016@odu-edu" : {
+        "2015-09-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-06" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-13" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-20" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-27" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      },
+      "mdevi004@odu-edu" : {
+        "2015-09-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-06" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-08" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-13" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-20" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-27" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-12" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-01" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-12-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-08" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : true
+        },
+        "2015-12-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      },
+      "rhami010@odu-edu" : {
+        "2015-09-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-06" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-13" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-20" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-27" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-29" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-10" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-12" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-19" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-26" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-08" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : true
+        },
+        "2015-12-10" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : true
+        },
+        "2015-12-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      },
+      "yzhen004@odu-edu" : {
+        "2015-09-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-06" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-13" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-20" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-27" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-19" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-24" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-26" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-12-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-31" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-07" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      }
+    },
+    "18905" : {
+      "dpere013@odu-edu" : {
+        "2015-10-05" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-16" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-11-23" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-30" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        }
+      },
+      "shavanur@cs-odu-edu" : {
+        "2015-11-16" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-23" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-11-30" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        }
+      },
+      "yzhen004@odu-edu" : {
+        "2015-09-28" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-05" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-12" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-19" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-10-26" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-02" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-09" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-11-16" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-23" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-11-30" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-07" : {
+          "isAttended" : false,
+          "isExcused" : true,
+          "isMissed" : false
+        },
+        "2015-12-14" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-21" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2015-12-28" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2016-01-04" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        },
+        "2016-01-11" : {
+          "isAttended" : true,
+          "isExcused" : false,
+          "isMissed" : false
+        }
+      }
+    },
+    "19101" : {
+      "yzhen004@odu-edu" : {
+        "2015-09-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-06" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-13" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-20" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-10-27" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-03" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-10" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-17" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-11-24" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-01" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-08" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-15" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-22" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2015-12-29" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-05" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        },
+        "2016-01-12" : {
+          "isAttended" : false,
+          "isExcused" : false,
+          "isMissed" : true
+        }
+      }
+    }
+  },
+  "classes" : {
+    "12467" : {
+      "abbreviation" : "ECE 381",
+      "crn" : "12467",
+      "students" : [ {
+        "studentEmail" : "yzhen004@odu.edu",
+        "studentID" : "0967208",
+        "studentName" : "zheng yingbo",
+        "studentPhone" : "7579183797"
+      }, {
+        "studentEmail" : "dpere013@odu.edu",
+        "studentID" : "32849282",
+        "studentName" : "perez daniel",
+        "studentPhone" : "+91892843"
+      } ],
+      "teacher" : {
+        "teacherEmail" : "jinghe04@odu.edu",
+        "teacherName" : "he jing                        "
+      }
+    },
+    "13186" : {
+      "abbreviation" : "CS 170",
+      "crn" : "13186",
+      "students" : [ {
+        "studentEmail" : "cgall023@odu.edu",
+        "studentID" : "0898164 ",
+        "studentName" : "gallet christopher j           ",
+        "studentPhone" : "5407209293"
+      }, {
+        "studentEmail" : "abola002@odu.edu",
+        "studentID" : "1005215 ",
+        "studentName" : "bolanos ashley l               ",
+        "studentPhone" : "7036508586"
+      }, {
+        "studentEmail" : "jbrin018@odu.edu",
+        "studentID" : "0997102 ",
+        "studentName" : "brinson jaylen a               ",
+        "studentPhone" : "5406633129"
+      }, {
+        "studentEmail" : "rbonn007@odu.edu",
+        "studentID" : "0953047 ",
+        "studentName" : "bonnell rebecca a              ",
+        "studentPhone" : "4438516507"
+      }, {
+        "studentEmail" : "dpere013@odu.edu",
+        "studentName" : "perez daniel"
+      } ],
+      "teacher" : {
+        "teacherEmail" : "yaohangl@odu.edu",
+        "teacherName" : "li yaohang                     "
+      }
+    },
+    "13187" : {
+      "abbreviation" : "CS 350",
+      "crn" : "13187",
+      "students" : [ {
+        "studentEmail" : "yzhen004@odu.edu",
+        "studentID" : "0967208 ",
+        "studentName" : "zheng yingbo                   ",
+        "studentPhone" : "7579183797"
+      }, {
+        "studentEmail" : "abola002@odu.edu",
+        "studentID" : 1005215,
+        "studentName" : "bolanos ashley l",
+        "studentPhone" : 7036508586
+      } ],
+      "teacher" : {
+        "teacherEmail" : "szeil001@odu.edu",
+        "teacherName" : "zeil steven j                  "
+      }
+    },
+    "13193" : {
+      "abbreviation" : "CS 250",
+      "crn" : "13193",
+      "students" : [ {
+        "studentEmail" : "mdevi004@odu.edu",
+        "studentID" : "1029507 ",
+        "studentName" : "devin marisa a                 ",
+        "studentPhone" : "7039442142"
+      }, {
+        "studentEmail" : "jfloy016@odu.edu",
+        "studentID" : "0988417 ",
+        "studentName" : "floyd jaida y                  ",
+        "studentPhone" : "7035956526"
+      }, {
+        "studentEmail" : "cgall023@odu.edu",
+        "studentID" : "0898164 ",
+        "studentName" : "gallet christopher j           ",
+        "studentPhone" : "5407209293"
+      }, {
+        "studentEmail" : "rhami010@odu.edu",
+        "studentID" : "0994447 ",
+        "studentName" : "hamilton roland r              ",
+        "studentPhone" : "5406575852"
+      } ],
+      "teacher" : {
+        "teacherEmail" : "jmorris1@odu.edu",
+        "teacherName" : "morris jay d                   "
+      }
+    },
+    "13195" : {
+      "abbreviation" : "ECE 441",
+      "crn" : "13195",
+      "students" : [ {
+        "studentEmail" : "rhami010@odu.edu",
+        "studentID" : "0994447 ",
+        "studentName" : "hamilton roland r              ",
+        "studentPhone" : "5406575852"
+      }, {
+        "studentEmail" : "mdevi004@odu.edu",
+        "studentID" : "1029507 ",
+        "studentName" : "devin marisa a                 ",
+        "studentPhone" : "7039442142"
+      }, {
+        "studentEmail" : "jfloy016@odu.edu",
+        "studentID" : "0988417 ",
+        "studentName" : "floyd jaida y                  ",
+        "studentPhone" : "7035956526"
+      }, {
+        "studentEmail" : "yzhen004@odu.edu",
+        "studentID" : "0967208 ",
+        "studentName" : "zheng yingbo                   ",
+        "studentPhone" : "7579183797"
+      }, {
+        "studentEmail" : "abola002@odu.edu"
+      }, {
+        "studentEmail" : "dpere013@odu.edu",
+        "studentName" : "perez daniel"
+      } ],
+      "teacher" : {
+        "teacherEmail" : "mzubair0@odu.edu",
+        "teacherName" : "zubair mohammed                "
+      }
+    },
+    "18905" : {
+      "abbreviation" : "CS 441",
+      "crn" : "18905",
+      "students" : [ {
+        "studentEmail" : "yzhen004@odu.edu",
+        "studentID" : "00967208",
+        "studentName" : "zheng yingbo",
+        "studentPhone" : "7579183797"
+      }, {
+        "studentEmail" : "dpere013@odu.edu",
+        "studentID" : "00400123",
+        "studentName" : "perez daniel",
+        "studentPhone" : "7575976750"
+      }, {
+        "studentEmail" : "shavanur@cs.odu.edu",
+        "studentID" : "00555667",
+        "studentName" : "havanur srinivas",
+        "studentPhone" : "7576690011"
+      } ],
+      "teacher" : {
+        "teacherEmail" : "tnadeem4@odu.edu",
+        "teacherName" : "nadeem tamer                   "
+      }
+    }
+  },
+  "students" : {
+    "abola002@odu-edu" : {
+      "Calendar" : {
+        "2015-09-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          },
+          "2015-11-29" : {
+            "isAttended" : true,
+            "isMissed" : false
+          }
+        },
+        "2015-10-03" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-10" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-17" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-24" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-31" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-07" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-14" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-21" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-28" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-05" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-12" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-19" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-02" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-09" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        }
+      },
+      "classes" : {
+        "13186" : {
+          "Abbreviation" : "170"
+        },
+        "13187" : {
+          "Abbreviation" : "150"
+        }
+      }
+    },
+    "bboeg001@odu-edu" : {
+      "Calendar" : {
+        "2015-09-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-03" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-10" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-17" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-24" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-31" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-07" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-14" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-21" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-28" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-05" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-12" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-19" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-02" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-09" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        }
+      },
+      "classes" : {
+        "13187" : {
+          "Abbreviation" : "150"
+        }
+      }
+    },
+    "cgall023@odu-edu" : {
+      "classes" : {
+        "13186" : {
+          "Abbreviation" : "170"
+        },
+        "13193" : {
+          "Abbreviation" : "250"
+        }
+      }
+    },
+    "jbask009@odu-edu" : {
+      "classes" : {
+        "13193" : {
+          "Abbreviation" : "150"
+        }
+      }
+    },
+    "jbrin018@odu-edu" : {
+      "Calendar" : {
+        "2015-09-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-03" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-10" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-17" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-24" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-31" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-07" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-14" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-21" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-28" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-05" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-12" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-19" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-02" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-09" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        }
+      },
+      "classes" : {
+        "13186" : {
+          "Abbreviation" : "170"
+        },
+        "13187" : {
+          "Abbreviation" : "150"
+        }
+      }
+    },
+    "jfloy016@odu-edu" : {
+      "Calendar" : {
+        "2015-09-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-06" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-13" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-20" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-27" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-19" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-26" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-31" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2016-01-07" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        }
+      },
+      "classes" : {
+        "13193" : {
+          "Abbreviation" : "250"
+        },
+        "13195" : {
+          "Abbreviation" : "270"
+        }
+      }
+    },
+    "mdevi004@odu-edu" : {
+      "Calendar" : {
+        "2015-09-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-06" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-13" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-20" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-27" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-19" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-26" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-31" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2016-01-07" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        }
+      },
+      "classes" : {
+        "13193" : {
+          "Abbreviation" : "250"
+        },
+        "13195" : {
+          "Abbreviation" : "270"
+        }
+      }
+    },
+    "rbonn007@odu-edu" : {
+      "Calendar" : {
+        "2015-09-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-03" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-10" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-17" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-24" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-31" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-07" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-14" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-21" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-28" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-05" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-12" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-19" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-02" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-09" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        }
+      },
+      "classes" : {
+        "13186" : {
+          "Abbreviation" : "170"
+        },
+        "13187" : {
+          "Abbreviation" : "150"
+        }
+      }
+    },
+    "rhami010@odu-edu" : {
+      "Calendar" : {
+        "2015-09-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-06" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-13" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-20" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-27" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-19" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-26" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-31" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2016-01-07" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          }
+        }
+      },
+      "classes" : {
+        "13193" : {
+          "Abbreviation" : "250"
+        },
+        "13195" : {
+          "Abbreviation" : "270"
+        }
+      }
+    },
+    "yzhen004@odu-edu" : {
+      "Calendar" : {
+        "11-21-2015" : {
+          "900" : {
+            "abbreviation" : "101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "900",
+            "toTime" : "1200",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-09-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-09-28" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-09-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-03" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-05" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-10-06" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-10" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-12" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-10-13" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-17" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-19" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-10-20" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-24" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-10-26" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-10-27" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-10-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-10-31" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-02" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-11-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-07" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-09" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-11-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-14" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-16" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-11-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-19" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-21" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-23" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-11-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-11-26" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-11-28" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-11-30" : {
+          "900" : {
+            "abbreviation" : "CS 441",
+            "beaconID" : "151d4b2d-672d-499d-bcf5-83f59a7471b6",
+            "crn" : 18905,
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-12-01" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-02" : {
+          "1900" : {
+            "abbreviation" : "ECE381",
+            "beaconID" : "cd8c4c3d-6a56-4e5d-83f6-1eb724bd2418",
+            "crn" : 12467,
+            "fromTime" : 1900,
+            "toTime" : 2015,
+            "weekDay" : "Wednesday"
+          }
+        },
+        "2015-12-03" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-05" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-07" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-12-08" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-10" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-12" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-14" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-12-15" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-17" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-19" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-21" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-12-22" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-24" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2015-12-26" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2015-12-28" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2015-12-29" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2015-12-31" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-02" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-04" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2016-01-05" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        },
+        "2016-01-07" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Thursday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "3cd62f16-6da3-4ed7-8dae-544cb6cb4e77",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Thursday"
+          }
+        },
+        "2016-01-09" : {
+          "930" : {
+            "abbreviation" : "CS350",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "13187",
+            "fromTime" : "930",
+            "toTime" : "1200",
+            "weekDay" : "Saturday"
+          }
+        },
+        "2016-01-11" : {
+          "1910" : {
+            "abbreviation" : "CS441",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e890",
+            "crn" : "18905",
+            "fromTime" : "1910",
+            "toTime" : "2150",
+            "weekDay" : "Monday"
+          }
+        },
+        "2016-01-12" : {
+          "930" : {
+            "abbreviation" : "CS270",
+            "beaconID" : "24329774-831d-41ec-995d-7496f001f896",
+            "crn" : "13195",
+            "fromTime" : "930",
+            "toTime" : "1045",
+            "weekDay" : "Tuesday"
+          },
+          "1100" : {
+            "abbreviation" : "COMM101",
+            "beaconID" : "04329774-831d-41fc-995d-7496e001e891",
+            "crn" : "19101",
+            "fromTime" : "1100",
+            "toTime" : "1215",
+            "weekDay" : "Tuesday"
+          },
+          "1330" : {
+            "abbreviation" : "CS381",
+            "beaconID" : "d8ea59d2-cd61-4a82-9b73-1a00fb1e36ce",
+            "crn" : "12467",
+            "fromTime" : "1330",
+            "toTime" : "1445",
+            "weekDay" : "Tuesday"
+          }
+        }
+      },
+      "classes" : {
+        "12467" : {
+          "Abbreviation" : "381"
+        },
+        "13187" : {
+          "Abbreviation" : "350"
+        },
+        "13195" : {
+          "Abbreviation" : "270"
+        },
+        "18905" : {
+          "Abbreviation" : "441"
+        },
+        "19101" : {
+          "Abbreviation" : "101"
+        }
+      }
+    }
+  },
+  "users" : {
+    "Dani " : {
+      "email" : "dpere013@odu.edu",
+      "name" : "Dani "
+    },
+    "Dr Nadeem" : {
+      "email" : "nadeem@cs.odu.edu",
+      "name" : "Dr Nadeem"
+    },
+    "Nadeem" : {
+      "email" : "tnadeem4@odu.edu",
+      "name" : "Nadeem"
+    },
+    "Yingbo Zheng " : {
+      "email" : "yzhen004@odu.edu",
+      "name" : "Yingbo Zheng "
+    },
+    "Zubair" : {
+      "email" : "mzubair@odu.edu",
+      "name" : "Zubair"
+    },
+    "Zubair2" : {
+      "email" : "mzubair0@odu.edu",
+      "name" : "Zubair2"
+    },
+    "abola" : {
+      "email" : "ABOLA002@ODU.EDU",
+      "name" : "abola"
+    },
+    "da" : {
+      "email" : "d@d.com",
+      "name" : "da"
+    },
+    "devi" : {
+      "email" : "DEVI004@ODU.EDU",
+      "name" : "devi"
+    },
+    "jing" : {
+      "email" : "jinghe04@odu.edu",
+      "name" : "jing"
+    },
+    "shavanur" : {
+      "email" : "srin.shav@gmail.com",
+      "name" : "shavanur"
+    },
+    "srinivas" : {
+      "email" : "shavanur@cs.odu.edu",
+      "name" : "srinivas"
+    },
+    "zeil" : {
+      "email" : "szeil001@odu.edu",
+      "name" : "zeil"
+    }
+  }
+}
