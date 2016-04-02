@@ -1,0 +1,200 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="odu.cs.attendanceapp.CourseActivity"
+    android:columnCount="3"
+    android:rowCount="14">
+
+    <GridLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:columnCount="3"
+        android:rowCount="14"
+        android:id="@+id/gridLayout">
+    <TextView android:text="@string/Name"
+        android:layout_row="0"
+        android:layout_column="0"
+        style="@style/MyTextViewStyle"/>
+
+    <EditText
+        android:id="@+id/etName"
+        style="@style/CourseEditTextStyle"
+        android:layout_row="0"
+        android:layout_column="1" />
+
+    <TextView />
+
+    <TextView android:text="@string/Abbreviation"
+        android:layout_row="1"
+        android:layout_column="0"
+        style="@style/MyTextViewStyle"/>
+
+    <EditText
+        android:id="@+id/etAbbrev"
+        style="@style/CourseEditTextStyle"
+        android:layout_row="1"
+        android:layout_column="1" />
+
+    <TextView />
+
+
+
+    <TextView
+        android:layout_row="0"
+        android:layout_column="2" />
+
+    <TextView android:text="Start Date"
+        android:layout_row="2"
+        android:layout_column="0"
+        style="@style/MyTextViewStyle"/>
+
+    <EditText android:id="@+id/etDate"
+        style="@style/CourseEditTextStyle"
+        android:layout_row="2"
+        android:layout_column="1" />
+
+    <Button android:id="@+id/btnDate"
+        android:text="..."
+        android:layout_row="2"
+        android:layout_column="2"></Button>
+
+        <TextView android:text="End Date"
+            android:layout_row="3"
+            android:layout_column="0"
+            style="@style/MyTextViewStyle"/>
+
+        <EditText android:id="@+id/etEndDate"
+            style="@style/CourseEditTextStyle"
+            android:layout_row="3"
+            android:layout_column="1" />
+
+        <Button android:id="@+id/btnEndDate"
+            android:text="..."
+            android:layout_row="3"
+            android:layout_column="2"></Button>
+
+    <TextView android:text="Start Time"
+        android:layout_row="4"
+        android:layout_column="0"
+        style="@style/MyTextViewStyle"/>
+
+    <EditText
+        android:id="@+id/etStartTime"
+        style="@style/CourseEditTextStyle"
+
+        android:layout_row="4"
+        android:layout_column="1" />
+
+    <Button
+        android:text="..."
+        android:id="@+id/btnFromTime"
+        android:layout_row="4"
+        android:layout_column="2"></Button>
+
+    <TextView android:text="End Time"
+        android:layout_row="5"
+        android:layout_column="0"
+        style="@style/MyTextViewStyle"/>
+
+    <EditText android:id="@+id/etEndTime"
+        style="@style/CourseEditTextStyle"
+        android:layout_row="5"
+        android:layout_column="1" />
+
+    <Button android:id="@+id/btnEndTime"
+        android:text="..."
+        android:layout_row="5"
+        android:layout_column="2"></Button>
+
+    <TextView android:text="Location"
+        style="@style/MyTextViewStyle"
+        android:id="@+id/tvLocation"
+        android:layout_row="6"
+        android:layout_column="0"/>
+
+    <EditText
+        android:id="@+id/etLocation"
+        style="@style/CourseEditTextStyle"
+        android:layout_row="6"
+        android:layout_column="1"/>
+
+    <Button android:id="@+id/btnLocation"
+        android:text="..."
+        android:layout_row="6"
+        android:layout_column="2"></Button>
+
+    <TextView  />
+
+
+
+
+    </GridLayout>
+    <TextView android:text="Frequency"
+        style="@style/MyTextViewStyle"
+        android:layout_below="@+id/gridLayout"
+        android:layout_alignLeft="@+id/btnSave"
+        android:layout_alignStart="@+id/btnSave"
+        android:id="@+id/textView" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSave"
+        android:text="Save"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:layout_marginTop="10dp"
+        android:columnCount="3"
+        android:rowCount="3"
+        android:layout_centerHorizontal="true">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="M"
+            android:id="@+id/monday"
+            android:checked="false" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="T"
+            android:id="@+id/tuesday"
+            android:checked="false" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="W"
+            android:id="@+id/wednesday"
+            android:checked="false" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="R"
+            android:id="@+id/thursday"
+            android:checked="false" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="F"
+            android:id="@+id/friday"
+            android:checked="false" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="S"
+            android:id="@+id/saturday"
+            android:checked="false" />
+    </GridLayout>
+</RelativeLayout>
