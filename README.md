@@ -9,8 +9,13 @@ Live web link: www.cs.odu.edu/~shavanur/AttendApp
 
 Screenshots:
 
+a. Student View.
 ![attendapp1](https://cloud.githubusercontent.com/assets/11856540/16220006/04b2fd4c-3758-11e6-9e7d-8778aeb303f7.JPG)
+
+b. Teacher View
 ![attendapp2](https://cloud.githubusercontent.com/assets/11856540/16220009/04b57d9c-3758-11e6-9db7-d5975353f910.JPG)
+
+c. Adding Class.
 ![attendapp3](https://cloud.githubusercontent.com/assets/11856540/16220007/04b32628-3758-11e6-8707-5a2d0cb6825e.JPG)
 
 
