@@ -5,8 +5,12 @@ AttendApp is an Android application that automatically checks if a student is in
 
 Technology: Android Studio, Firebase, RAD Beacons 
 
-Screenshots: They are available in the following link
+Live web link: www.cs.odu.edu/~shavanur/AttendApp
 
-www.cs.odu.edu/~shavanur/AttendApp
+Screenshots:
+
+![attendapp1](https://cloud.githubusercontent.com/assets/11856540/16220006/04b2fd4c-3758-11e6-9e7d-8778aeb303f7.JPG)
+![attendapp2](https://cloud.githubusercontent.com/assets/11856540/16220009/04b57d9c-3758-11e6-9db7-d5975353f910.JPG)
+![attendapp3](https://cloud.githubusercontent.com/assets/11856540/16220007/04b32628-3758-11e6-8707-5a2d0cb6825e.JPG)
 
 
